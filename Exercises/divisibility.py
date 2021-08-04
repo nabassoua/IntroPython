@@ -10,6 +10,6 @@ original_num = num
 
 while num % 2 == 0:
     count += 1
-    new_num = num // 2
+    num = num // 2
 
 print(original_num, "is divisible by 2", count, "times")
