@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08721b6a-00e4-450e-850c-1a605ac950a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Divisors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/divisibility.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Divisors.py" beforeDir="false" afterPath="$PROJECT_DIR$/Divisors.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +32,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="Python" />
   </component>
   <component name="RunManager">
-    <configuration name="Divisors" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="divisibility" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -42,7 +47,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Divisors.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/divisibility.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -53,7 +58,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Divisors" />
+        <item itemvalue="Python.divisibility" />
       </list>
     </recent_temporary>
   </component>
@@ -78,5 +83,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

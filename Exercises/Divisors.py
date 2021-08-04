@@ -1,14 +1,17 @@
-# Divisors of a number
+# Proper divisors of a number
 
-num = int(input("Please enter a number: "))
+num = int(input("Please enter a positive integer: "))
+j = 2
 
-for i in range(1, num):
-    if num % i == 0:
-       print("divisors= ", i)
-       continue
+print("The proper divisors for", num, "are: ")
+while j < num:
+    if num % j == 0:
+        print(j, end=" ")
+        j += 1
     else:
-        continue
-else:
-    print("The number is prime?")
+        j += 1
 
-        
+else:
+    if not (num % 2 == 0):
+        print("\n")
+        print(num, "has no proper divisors and is prime")
