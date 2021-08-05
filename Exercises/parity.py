@@ -2,7 +2,7 @@
 
 num = int(input("Please enter a number: "))
 
-if num < 0:
+while num < 1:
     num = int(input("Please enter a number: "))
 
 if num % 2 == 0:
