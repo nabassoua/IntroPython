@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08721b6a-00e4-450e-850c-1a605ac950a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/price.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Divisors.py" beforeDir="false" afterPath="$PROJECT_DIR$/Divisors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/count.py" beforeDir="false" afterPath="$PROJECT_DIR$/count.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divisibility.py" beforeDir="false" afterPath="$PROJECT_DIR$/divisibility.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parity.py" beforeDir="false" afterPath="$PROJECT_DIR$/parity.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
