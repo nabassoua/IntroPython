@@ -22,6 +22,10 @@ def tester_age(age):
 #######################################
 
 my_age = random.randint(1, 100)
-print("Your random age is:", my_age, end=' ')
+print("Vous êtes âgé de", my_age, end=' ')
+if my_age == 1:
+    print("an")
+else:
+    print("ans")
 print("\n")
 tester_age(my_age)
