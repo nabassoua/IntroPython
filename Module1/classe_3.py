@@ -4,9 +4,13 @@ Practicing if statements
 Exercise: rank 3 inputs from smaller to bigger
 """
 
-a = int(input("Please enter the first number: "))
-b = int(input("Please enter the second number: "))
-c = int(input("Please enter the third number: "))
+a = input("Please enter the first number: ")
+b = input("Please enter the second number: ")
+c = input("Please enter the third number: ")
+
+# Need to check if the user entered numbers...
+if (type(a) != int and type(a) != float) or (type(b) != int and type(b) != float) or (type(c) != int and type(c) != float):
+    print("Try again, please enter numbers")
 
 if a <= b and b <= c:
     print(a, b, c)
