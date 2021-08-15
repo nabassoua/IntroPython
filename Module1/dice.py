@@ -19,5 +19,9 @@ while num_steps <= num_trials:
     if random_face == face_number:
         print("\n")
         print("It took", num_sucess, "Trial(s) to get the number", face_number)
-        break
+        break  # If the "break" statement is not executed after "while" is done then the "else" portion is executed
+else:
+    print("\n")
+    print("Number did not appear!")
+
 
